@@ -6,7 +6,7 @@
 ```javascript
 // tools_I_use organized
 
-class About JW { 
+class About SH { 
   const myAbility = {  
     "ProgramingLanguages" : { "Python", "Javascript", "c/c++" },
     "OtherLanguages" : { "HTML", "CSS", "Bash" },
