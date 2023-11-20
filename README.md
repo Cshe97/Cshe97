@@ -1,5 +1,5 @@
 <h2>  Hello 👋 I am SeongHwan! </h2>
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='250'>
+
 <p><em>Software Enginner at AIOT Robot Development Education
 
 
