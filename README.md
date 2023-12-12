@@ -9,10 +9,9 @@
 class About SH { 
   const myAbility = {  
     "ProgramingLanguages" : { "Python", "Javascript", "c/c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash" },
     "Database" : { "SQL" },
-    "Editors" : { "Vscode" },
-    "Platforms" : { "Mac", "Linux", "Windows" },
+    "Editors" : { "Vscode", "VsStudio" },
+    "Platforms" : { "Linux", "Windows" },
     "OtherTools" : { "Git,  Node, OpenCV, ROS2" }
   };
 }
